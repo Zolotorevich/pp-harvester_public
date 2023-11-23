@@ -3,7 +3,7 @@
 
 Внутри: beautifulsoup4, mysql, requests, origamibot, telebot, yt_dlp, Ubuntu + MySQL.
 
-Зачем: zolotorevich.com/works/pirate-parrot/crawler/
+Зачем: www.zolotorevich.com/works/pirate-parrot/crawler/
 
 ## app.py
 Создаёт объекты для разных типов торрентов. Сейчас только для игр.
